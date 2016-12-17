@@ -10,13 +10,14 @@
     "test": "node ./test"
   },
   "repository": {
-	  "type": "git",
-	  "url": "git://github.com/agraddy/agraddy.drop.htm.git"
+    "type": "git",
+    "url": "git://github.com/agraddy/agraddy.drop.htm.git"
   },
   "bugs": {
-	  "url": "https://github.com/agraddy/agraddy.drop.htm/issues"
+    "url": "https://github.com/agraddy/agraddy.drop.htm/issues"
   },
   "devDependencies": {
-	  "tape": "^4.6.3"
+    "agraddy.test.res": "^0.3.0",
+    "agraddy.test.tap": "^0.2.0"
   }
 }
